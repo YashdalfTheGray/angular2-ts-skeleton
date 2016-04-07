@@ -9,9 +9,9 @@ Typescript and Typings will also need to be installed globally. This can be done
 
 ## Installation
 
-If you're in the project root, use `cd` to switch to the `client` directory and then run `npm install`.
+Run `npm install` to pull down all the dependencies.
 
-The Angular 2 client is written in Typescript which needs to be compiled down to Javascript. The Javascript then also needs to be served so that the code can be seen working. Running an `npm start` from the the `client` folder will both compile the Typescript (and watch for changes and recompile) and run a webserver locally to serve up the application.
+Angular 2 apps are written in Typescript which needs to be compiled down to Javascript. The Javascript then also needs to be served so that the code can be seen working. Running an `npm start` from the the `client` folder will both compile the Typescript (and watch for changes and recompile) and run a webserver locally to serve up the application.
 
 ## Other `npm` commands
 
